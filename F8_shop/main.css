@@ -1,4 +1,9 @@
- h1 {
+ #heading1 {
+     color: red;
+     font-size: 40;
+ }
+
+ .headingClass {
      color: red;
      font-size: 40;
  }
